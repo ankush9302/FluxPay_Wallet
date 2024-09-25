@@ -1,4 +1,4 @@
-Here’s a detailed **README** file for your **FluxPay** project:
+
 
 ---
 
@@ -155,5 +155,3 @@ FluxPay is a secure and efficient digital wallet application that handles paymen
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README should give any user or recruiter a clear overview of your project, including installation steps, usage, and the technical details.
